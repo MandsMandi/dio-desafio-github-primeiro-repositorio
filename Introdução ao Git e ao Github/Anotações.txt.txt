@@ -1,0 +1,24 @@
+Link para download do Git:
+https://git-scm.com/
+
+No momento da instalação checar se a opção para instalação do Git Bash está marcada. 
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+As configurações de .Nome e .Email do Git e do Github devem conter os mesmos dados para otimização de uso.
+
+Download do Github:
+https://github.com/
+
+Comandos importantes:
+git init
+git add
+git add * (adicionar todos os arquivos)
+git comit -m "Comentário sobre a versão"
+git clone https://...
+cd nomedapasta (para ir para a pasta descrita)
+cd.. (para voltar uma pasta)
+git push origin master (para puxar o arquivo do Github)
+git remote add origin ....github (para add o arquivo ao Github)
+ls (listar os arquivos da pasta)
+git status (status da pasta)
+
